@@ -1,0 +1,27 @@
+#container {
+  position:relative;
+  width: 960px;
+  height: 512px;
+  margin: 80px auto;
+  background-image: url(images/back.jpg);
+  background-size: cover;
+}
+
+#character1 {
+  position:absolute;
+  width:80px;
+}
+
+#character2 {
+  position:absolute;
+  width:80px;
+}
+
+#info {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+#caption {
+  text-align: center;
+}
